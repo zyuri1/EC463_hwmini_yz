@@ -1,0 +1,19 @@
+MPY: soft reboot
+Response Time: 207 ms
+Light Sensor Value when LED ON: 8866
+Light Sensor Value at Button Press: 17988
+Response Time: 214 ms
+Light Sensor Value when LED ON: 8914
+Light Sensor Value at Button Press: 17796
+Response Time: 207 ms
+Light Sensor Value when LED ON: 8594
+Light Sensor Value at Button Press: 17700
+Response Time: 207 ms
+Light Sensor Value when LED ON: 8578
+Light Sensor Value at Button Press: 17924
+Response Time: 186 ms
+Light Sensor Value when LED ON: 8802
+Light Sensor Value at Button Press: 17812
+Response Time: 213 ms
+Light Sensor Value when LED ON: 8834
+Light Sensor Value at Button Press: 17860
